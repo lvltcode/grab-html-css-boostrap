@@ -1,4 +1,4 @@
-# CoderSchool FTW - Grab Landing Page
+# Grab Landing Page
 
 Created with love by: `lvltcode`
   
